@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/whoisashish/whoisashish/blob/main/assets/208593.gif">
+<img hight="300" width="700" style="border-radius: 7px" alt="GIF" align="center" src="https://github.com/whoisashish/whoisashish/blob/main/assets/208593.gif">
 </div>
 
 </br>
