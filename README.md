@@ -15,9 +15,6 @@
 
 <img hight="400" width="500" style="border-radius: 7px" alt="GIF" align="right" src="https://github.com/whoisashish/whoisashish/blob/main/assets/1936.gif">
 
-</br>
-</br>
-
 ### - Hobbies : 
 - ✨ Gaming
 - ✨ Playing Flute
